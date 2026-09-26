@@ -1,5 +1,5 @@
 # Spring Boot User Management API
-Simple user manager REST API created using the Spring framework.
+Simple user manager REST API created using the Spring framework in Java for user management, featuring authentication, layered architecture, MySQL persistence, and request validation.
 
 When the service is started, two users are created:
 
